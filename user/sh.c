@@ -245,7 +245,7 @@ umain(int argc, char **argv)
 	echocmds = 0;
 	writef("\n:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n");
 	writef("::                                                         ::\n");
-	//writef("::              Super Shell  V0.0.0_1                      ::\n");
+	writef("::              Super Shell  V0.0.0_1                      ::\n");
 	writef("::                                                         ::\n");
 	writef(":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n");
 	ARGBEGIN{
